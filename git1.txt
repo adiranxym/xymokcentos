@@ -4,3 +4,6 @@ shi bu shi
 somthing aaaaaa
 
 add GPL
+
+git has a mutable index called stage
+
